@@ -1,0 +1,137 @@
+I
+800
+OBJ
+
+GLOBAL_cockpit_lit
+POINT_COUNTS	6	0	0	6
+
+VT	-0.2851572	0.27066827	0.37293783	0	-0.011295421	0.99993622	0.74996966	0.81246853	# 0
+VT	-0.2851572	0.32476127	0.37354887	0	-0.011295803	0.99993616	0.74996787	0.99997056	# 1
+VT	-0.21231121	0.32476127	0.37354887	0	-0.011295246	0.99993622	0.99996948	0.99996889	# 2
+VT	-0.21231121	0.27066827	0.37293783	0	-0.011294863	0.99993616	0.99996918	0.8124699	# 3
+VT	-0.2851572	0.27066827	0.37293783	0	-0.011295421	0.99993622	0.74996966	0.81246853	# 4
+VT	-0.21231121	0.32476127	0.37354887	0	-0.011295246	0.99993622	0.99996948	0.99996889	# 5
+
+IDX	0
+IDX	1
+IDX	2
+IDX	3
+IDX	4
+IDX	5
+
+# 0 ROOT
+	# 1 Mesh: EDM900_Screen
+	# 1 Mesh: COM2_active
+	# 1 Mesh: COM2_stby
+	# 1 Mesh: NAV2_active
+	# 1 Mesh: NAV2_stdby
+	# 1 Mesh: AP DISCONNECT
+	# 1 Mesh: Alternate static air - pull if you suspect your primary static 
+	# 1 Mesh: Autopilot both altitude - vertical speed function
+	# 1 Mesh: Autopilot both heading - nav function
+	# 1 Mesh: Autopilot will HOLD actual altitude
+	# 1 Mesh: Autopilot will follow ILS backcourse
+	# 1 Mesh: Autopilot will follow active ILS
+	# 1 Mesh: Autopilot will follow active VOR/LOC
+	# 1 Mesh: Autopilot will follow preselected heading
+	# 1 Mesh: Autopilot will mantain actual vertical speed
+	# 1 Mesh: Avionics button BUS 1 - give power to the avionics on the bus 1
+	# 1 Mesh: Avionics button BUS 2 - connect power also to the bus 2
+	# 1 Mesh: Baro pressure 2992
+	# 1 Mesh: Baro pressure adjust
+	# 1 Mesh: Battery - Give power to the systems
+	# 1 Mesh: COM volume
+	# 1 Mesh: COM1 push squelch
+	# 1 Mesh: COM2 push squelch
+	# 1 Mesh: COM2 volume
+	# 1 Mesh: Directional gyro drift adjust
+	# 1 Mesh: Door handle
+	# 1 Mesh: Door handle.000
+	# 1 Mesh: Door handle.001
+	# 1 Mesh: Door handle.002
+	# 1 Mesh: EGT reference
+	# 1 Mesh: Elapsed time reset
+	# 1 Mesh: Elapsed time: start/stop
+	# 1 Mesh: Elevator trim
+	# 1 Mesh: Elevator trim buttons
+	# 1 Mesh: FUEL SELECTOR
+	# 1 Mesh: FUEL SHUTOFF !!!
+	# 1 Mesh: Flaps handle
+	# 1 Mesh: Flood light - copilot
+	# 1 Mesh: Flood light - passengers
+	# 1 Mesh: Flood light - pilot
+	# 1 Mesh: Fuel pump
+	# 1 Mesh: Generator/Alternator - Charge the battery when engine running
+	# 1 Mesh: Glareshield bright
+	# 1 Mesh: Heading bug (autopilot)
+	# 1 Mesh: Hide/show the yokes
+	# 1 Mesh: Horizon vertical reference adjust
+	# 1 Mesh: Landing light - located on the left wing
+	# 1 Mesh: Line #7706
+	# 1 Mesh: Line #7758
+	# 1 Mesh: Line #7924
+	# 1 Mesh: Line #7950
+	# 1 Mesh: Line #7966
+	# 1 Mesh: MAGNETOS KEY / STARTER
+	# 1 Mesh: Mixture
+	# 1 Mesh: Navigation lights - red and green lights located on the wing ti
+	# 1 Mesh: OBS VOR - nav1
+	# 1 Mesh: OBS VOR - nav2
+	# 1 Mesh: Panel bright
+	# 1 Mesh: Parking brake
+	# 1 Mesh: Pedestal bright
+	# 1 Mesh: Pitot heat - prevent the tube from becoming clogged in icing co
+	# 1 Mesh: Preselected vertical speed
+	# 1 Mesh: Radio bright
+	# 1 Mesh: Rotating beacon light - located on the tail
+	# 1 Mesh: Select mode: Universal Time - Local Time - Flight Time - Elapse
+	# 1 Mesh: Something inside...
+	# 1 Mesh: Strobe lights - flashing lights located on the wing tips
+	# 1 Mesh: TAS calculator/ruler
+	# 1 Mesh: Taxi light - located on the left wing
+	# 1 Mesh: Test all annunciators
+	# 1 Mesh: Throttle
+	# 1 Mesh: Toggle NAV1 / GPS as source for autopilot etc
+	# 1 Mesh: Toggle NAV1 / GPS as source for autopilot etc.000
+	# 1 Mesh: Toggle from OAT C°, F° and battery voltage
+	# 1 Mesh: Toggle the bobblehead from here to the drawer
+	# 1 Mesh: Toggle the bobblehead from here to the glareshield
+	# 1 Mesh: Yoke
+	# 1 Mesh: Yoke.000
+	# 1 Mesh: airspeed_kts_pilot
+	# 1 Mesh: altitude_ft_pilot
+	# 1 Mesh: g430n1_coarse_down
+	# 1 Mesh: g430n1_direct
+	# 1 Mesh: g430n1_fine_down
+	# 1 Mesh: g430n1_menu
+	# 1 Mesh: g430n1_nav_com_tog
+	# 1 Mesh: g430n2_coarse_down
+	# 1 Mesh: g430n2_direct
+	# 1 Mesh: g430n2_fine_down
+	# 1 Mesh: g430n2_menu
+	# 1 Mesh: g430n2_nav_com_tog
+	# 1 Mesh: g430n2_zoom_in
+	# 1 Mesh: heading_electric_deg_mag_pilot
+	# 1 Mesh: mixture_manip_new
+	# 1 Mesh: nav1_obs_deg_mag_pilot
+	# 1 Mesh: pitch_electric_deg_pilot
+	# 1 Mesh: turn_rate_roll_deg_pilot
+	# 1 Mesh: vvi_fpm_pilot
+	# 1 Mesh: COM2 Coarse Freq Adjust
+	# 1 Mesh: COM2 Fine Freq Adjust
+	# 1 Mesh: COM2 Active/Stby Flip
+	# 1 Mesh: NAV2 Coarse Freq Adjust
+	# 1 Mesh: NAV2 Fine Freq Adjust
+	# 1 Mesh: NAV2 Active/Stby Flip
+	# 1 Mesh: NAV2 volume
+	# 1 Mesh: NAV2 push ident
+	# 1 Mesh: G5 A Knob
+	# 1 Mesh: G5 A Push
+	# 1 Mesh: G5 Power
+	# 1 Mesh: G5_Screen
+	# MESH: G5_Screen	weight: 46
+	# MATERIAL: material0.035
+	ATTR_shiny_rat	0
+	TRIS	0 6
+
+# Build with Blender 2.81 (sub 16) (build b'f1aa4d18d49d'). Exported with XPlane2Blender 4.0.0-rc.1+89.20200910152046

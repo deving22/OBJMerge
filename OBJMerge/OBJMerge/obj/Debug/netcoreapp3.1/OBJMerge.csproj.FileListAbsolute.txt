@@ -1,0 +1,11 @@
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\bin\Debug\netcoreapp3.1\OBJMerge.exe
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\bin\Debug\netcoreapp3.1\OBJMerge.deps.json
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\bin\Debug\netcoreapp3.1\OBJMerge.runtimeconfig.json
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\bin\Debug\netcoreapp3.1\OBJMerge.runtimeconfig.dev.json
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\bin\Debug\netcoreapp3.1\OBJMerge.dll
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\bin\Debug\netcoreapp3.1\OBJMerge.pdb
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\obj\Debug\netcoreapp3.1\OBJMerge.csprojAssemblyReference.cache
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\obj\Debug\netcoreapp3.1\OBJMerge.AssemblyInfoInputs.cache
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\obj\Debug\netcoreapp3.1\OBJMerge.AssemblyInfo.cs
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\obj\Debug\netcoreapp3.1\OBJMerge.dll
+C:\Users\Devin Grande\Documents\OBJMerge\OBJMerge\OBJMerge\obj\Debug\netcoreapp3.1\OBJMerge.pdb
